@@ -13,6 +13,11 @@
 
 *or download [`index.html`](index.html) and double-click it — works fully offline.*
 
+### How to play
+**WASD** move · **Mouse** aim · **Hold click** fire · **Shift** slow time · **E** EMP blast · **Q** Overdrive · **P** pause
+Survive each wave, grab the cyan crystals to level up and pick upgrades. Every 5th wave is a boss.
+On a phone: drag the left side of the screen to move; firing is automatic.
+
 </div>
 
 ---
